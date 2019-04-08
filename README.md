@@ -1,2 +1,2 @@
 # MachineLearning
-Here is the repository containing my machine learning specialization courses assignment and projects
+Here is the repository containing my machine learning specialization courses notes, assignments, and projects
