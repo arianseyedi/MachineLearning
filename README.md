@@ -11,7 +11,7 @@ Here is the repository containing my 4-course machine learning specialization pr
  
  **Data Clustering Algorithms | Machine Learning | Classification Algorithms | Decision Tree**
  
- ## Courses:
+ ## Courses: (about 40 hours of lecture time and 24 assignments)
  
 ### COURSE 1: *Machine Learning Foundations: A Case Study Approach [My Certificate Here](https://www.coursera.org/account/accomplishments/certificate/EWDQJTDREEWY)*
 
