@@ -13,7 +13,7 @@ Here is the repository containing my 4-course machine learning specialization pr
  
  ## Courses:
  
-### COURSE 1: *Machine Learning Foundations: A Case Study Approach*
+### COURSE 1: *Machine Learning Foundations: A Case Study Approach [My Certificate Here](https://www.coursera.org/account/accomplishments/certificate/EWDQJTDREEWY)*
 
  <details>
   <summary>Show Course Description</summary>
