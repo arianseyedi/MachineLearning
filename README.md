@@ -1,6 +1,5 @@
 # Machine Learning Specialization
-Here is the repository containing my 4-course machine learning specialization provided by University of Washington on [Coursera Website](https://www.coursera.org/specializations/machine-learning)
- notes, graded assignments, and projects. 
+Here is the repository containing my notes, graded assignments, and projects for the 4-course machine learning specialization provided by University of Washington on [Coursera Website](https://www.coursera.org/specializations/machine-learning). 
  
  **Special Note :** Assignments are included in the python notebooks labeled "..._week_n..." where n is the week number.
  
