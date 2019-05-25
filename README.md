@@ -8,7 +8,7 @@ Here is the repository containing my notes, graded assignments, and projects for
  
  ### Skills Gained: 
  
- **Data Clustering Algorithms | Machine Learning | Classification Algorithms | Decision Tree**
+ **Data Clustering Algorithms | Regression Algorithms | Classification Algorithms | Decision Trees**
  
  ## Courses: (about 40 hours of lecture time and 24 assignments)
  
