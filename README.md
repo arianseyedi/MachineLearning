@@ -10,7 +10,7 @@ Here is the repository containing my notes, graded assignments, and projects for
  
  **Data Clustering Algorithms | Regression Algorithms | Classification Algorithms | Decision Trees**
  
- ## Courses: (about 40 hours of lecture time and 24 assignments)
+ ## Courses: (about 40 hours of lecture time and 25 assignments)
  
 ### COURSE 1: *Machine Learning Foundations: A Case Study Approach [My Certificate Here](https://www.coursera.org/account/accomplishments/certificate/EWDQJTDREEWY)*
 
